@@ -1,0 +1,26 @@
+
+#nav1 {
+
+	text-align:center; 
+}
+
+.circle {
+
+  background-color: #aaa;
+  border-radius: 50%;
+  width: 350px;
+  height: 350px;
+  overflow: hidden;
+  position: relative;
+}
+
+.circle img {
+  position: relative;
+  bottom: 0;
+  width: 150%;
+}
+
+.coluna-50 {
+    width: 50%;
+}
+
